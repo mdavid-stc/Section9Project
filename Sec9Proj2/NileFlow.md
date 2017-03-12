@@ -23,6 +23,8 @@ The summary of the measurements looks like:
   456.0   798.5   893.5   919.4  1032.0  1370.0 
 ```
 
+R code is in https://github.com/mdavid-stc/Section9Project/
+
 The Goal
 ========================================================
 
